@@ -3,7 +3,8 @@
 ## [ Baptiste LE BRUN - Remy VITTENET - Augustin FOURNIS ]
 
 
-### Cobot
+### Cobot <br>
+Poppy ergo junior
 ### flyper zero
 ### Robot 
 ### NFC
